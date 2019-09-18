@@ -1,0 +1,24 @@
+{
+  "name": "express-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "entry point": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NomenNescio1/express-mir-dos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/NomenNescio1/express-mir-dos/issues"
+  },
+  "homepage": "https://github.com/NomenNescio1/express-mir-dos#readme"
+}
